@@ -1,0 +1,4 @@
+El total se calcula multiplicando el precio de cada producto por su cantidad y sumando los resultados. Por ejemplo: Café × cantidad + Sándwich × cantidad + Jugo × cantidad.
+
+Se reutiliza ProductoPedido porque permite usar el mismo widget para las tres filas, evitando repetir código y haciendo que la interfaz sea más ordenada y fácil de mantener.
+
